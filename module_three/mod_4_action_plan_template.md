@@ -2,32 +2,32 @@
 *This is your deliverable from the [Job Search Strategies I session](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies_i.md)*
 
 ## Module 4 Goals
-*List your longterm goal(s) of what you want to accomplish by the end of module 4*
+*Have at least one job offer by the end of mod 4*
 
 ### Strategy To Achieve Goals:
 In this section, break down your longterm goal into smaller goals that you want to work on each week and/or day
 
 #### Coding (both including your module 4 curriculum and anything outside of it):
-*How will you focus your learning to accomplish your longterm goal?*
+*Practice algorithms for 2 hours per week. Work on interesting side projects that I can blog about*
 
 #### Opportunities Research:
-*How will you continue researching companies and contacts? How will you utilize your Trello Board?* 
+*Cold Outreach seems to be a good way to discover things. Angel.co has also been kind of effective* 
 
 #### Cold Outreach/Network:
-*Who will you reach out to? Have you considered talking with alumni about their own networking practices when they started their job search?
+*Have reached out to all alumni in places that I want to work. If possible will try to meet with people in Seattle over the long intermission*
 
 #### Personal Branding *(A personal branding section is optional)*:
-*How might personal branding pieces help you towards your goal?*
+*Going to keep blogging to raise online presence. Would like for LinkedIn/Facebook to not be the first hit for my name on google*
 
 ### Timeline:
-*What will you do when?*
+*Lots of cold outreach now, in a push to make connections and possibly be interviewing in the intermission*
 
 #### Module Tasks:
-*What will you do throughout the module?*
+*Concentrate on projects that are useful for a resume. Keep doing cold outreach*
 
 #### Weekly Tasks:
-*What will you do throughout each week?*
+*Coding algorithm challenges. Push to have at least one meeting per week*
 
 ## What I Will Work on with Meg
-*What advice do you need? What would be helpful to talk through? Let Meg know here!*
+*Still interested in the possibility of doing contract work. Wondering where and how to go about this?*
 
