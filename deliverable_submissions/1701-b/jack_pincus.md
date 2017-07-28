@@ -10,9 +10,9 @@
     * Blog Post: Link to gist listing:
        * Link to blog post on something you've learned
        * 3-4 sentences on how you're using this blog post to connect with other people in your network 
-* Link to your completed Turing portfolio with 2 additional projects: 
-* Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* [Link](https://www.turing.io/alumni/jack-pincus) to your completed Turing portfolio with 2 additional projects: 
+* [Summary of participation in practice interview](https://gist.github.com/jwpincus/d877f2580630a13ea5704115a1210e87):
+* [Job search action plan](https://github.com/jwpincus/career-development-curriculum/blob/patch-2/module_four/post_grad_plan.md)
 
 ## Mod 3 Deliverables:
 
